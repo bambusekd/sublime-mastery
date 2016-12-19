@@ -1,1 +1,2 @@
-[Book Sublime Mastery](https://bambusekd.gitbooks.io/sublime-mastery/content/)
+# Sublime Mastery - Book
+[Read it on Gitbooks](https://bambusekd.gitbooks.io/sublime-mastery/content/)
